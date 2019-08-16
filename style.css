@@ -1,0 +1,54 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+ h1 {
+   font-family: 'Cookie', cursive;
+ }
+
+ p {
+   font-family: 'Cookie', cursive;
+ }
+
+body {
+  background: lightblue;
+}
+
+h2{
+    color: midnightblue;
+}
+
+h1{
+  color: midnightblue;
+}
+
+h1{
+  font-size: 35px
+}
+
+
+
+p{
+  color: royalblue;
+}
+
+p{
+  font-size: 35px
+}
+
+.hockey-player {
+  width: 100%;
+}
+
+footer p {
+  color: navy;
+}
+
+ /*page header*/
+header,
+section,
+footer {
+  padding: 25px 50px;
+}
