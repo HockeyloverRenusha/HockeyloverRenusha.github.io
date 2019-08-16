@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Hi I'm Renusha and I like hockey.</title>
+  </head>
+
+  <body>
+    <!-- page header -->
+    <header>
+      <h1>Hi! I'm Renusha Ramanarajah.</h1>
+      <h2>I'm a quiet person and to relax by watching a hockey game.</h2>
+    </header>
+
+    <!-- about me section -->
+    <section class="about">
+      <h1>About Me</h1>
+
+      <p>The name of Renusha gives me a dynamic and highly strung nature. I like(not like : love!!!!) to play hockey. My favorite hockey player is Connor McDavid. When it comes to watching a hockey game, I am not shy at all. When a goal is scored, I leap up and do my happy dance! Hockey just brings life out of me. I feel so great just to see my favorite player play with skill and score a goal.I love going to the skating rink to play hockey. Over all I just love hockey.</p>
+
+      <p>Hockey is an amazing sport. If I were to recommend a sport to anyone it would be hockey. Please do try hocckey as a sport. Trust me it's amazing..</p>
+    </section>
+
+    <!-- My favorite things section -->
+    <section class="loves">
+      <h1>Love, Love, Love</h1>
+      <p>Here are a people things that I really love.</p>
+    </section>
+
+    <!-- footer & contact info -->
+    <footer>
+      <h1>Contact Me</h1>
+    </footer>
+  </body>
+</html>
